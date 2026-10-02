@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Local vector store, rebuilt on first run
+chrome_langchain_db/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
